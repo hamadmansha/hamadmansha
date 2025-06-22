@@ -13,7 +13,7 @@ Welcome to my GitHub! I build **clean, responsive interfaces** with pure CSS and
 
 ### 🌟 **Featured Projects**  
 
-#### 1. [Django CV Generator](https://github.com/yourusername/CV-Generator)  
+#### 1. [Django CV Generator](https://github.com/hamadmansha/resume_generator)  
 ✅ **CSS-Powered Templates**: Modern, Classic, Creative styles  
 ✅ **Print-optimized CSS** for flawless PDF rendering  
 ✅ Mobile-first responsive design  
