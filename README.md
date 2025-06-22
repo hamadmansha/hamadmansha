@@ -18,7 +18,7 @@ Welcome to my GitHub! I build **clean, responsive interfaces** with pure CSS and
 ✅ **Print-optimized CSS** for flawless PDF rendering  
 ✅ Mobile-first responsive design  
 
-#### 2. [Django School Management](https://github.com/yourusername/Django-School-Management-System)  
+#### 2. [Django School Management](https://github.com/hamadmansha/Django-School-Management-System)  
 ✅ Custom admin interfaces with CSS  
 ✅ Responsive Bootstrap dashboard  
 
